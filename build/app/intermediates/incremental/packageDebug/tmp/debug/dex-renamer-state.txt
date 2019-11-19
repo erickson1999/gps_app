@@ -1,0 +1,4 @@
+#Mon Nov 18 18:40:57 COT 2019
+base.0=C\:\\Users\\erick\\OneDrive\\Desktop\\027-location-service\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
